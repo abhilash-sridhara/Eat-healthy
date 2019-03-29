@@ -1,0 +1,19 @@
+{
+  "name": "eat-healthy-1",
+  "version": "1.0.0",
+  "description": "First Version of eat healthy app",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start":"webpack-dev-server --open --mode development --port 8080"
+  },
+  "keywords": [
+    "JS",
+    "Childhood",
+    "Obesity",
+    "Game",
+    "Health"
+  ],
+  "author": "Abhilash",
+  "license": "ISC"
+}
